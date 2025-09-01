@@ -1,6 +1,7 @@
-title: "Your Name"
+
+title: "Daniela Schneevogt"
 email: "your.email@example.com"
-description: "Researcher in [Your Field]"
-baseurl: ""
+description: "Researcher in Forensic Linguistics"
+baseurl: "/DS-research-site"
 url: "https://yourdomain.com"
 theme: jekyll-theme-cayman
