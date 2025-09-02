@@ -1,6 +1,7 @@
 ---
+layout: default
 title: About Me
-permalink: /about
+permalink: /about.html
 ---
 
 {% include header.html %}

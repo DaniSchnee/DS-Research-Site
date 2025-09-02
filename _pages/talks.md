@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Talks
-permalink: /talks
+permalink: /talks.html
 ---
 
 {% include header.html %}
